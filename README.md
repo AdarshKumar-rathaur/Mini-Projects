@@ -8,7 +8,7 @@ Welcome! This repository is a curated collection of small-scale web applications
 
 | Project Name | Tech Stack | Description | Link |
 | :--- | :--- | :--- | :--- |
-| **Whack-A-Mole** | HTML, CSS, JavaScript | A classic arcade game featuring dynamic speed scaling and a lives-based scoring system. | [View Project](./Whack-A-Mole) |
+| **Whack-A-Mole** | HTML, CSS, JavaScript | A classic arcade game featuring dynamic speed scaling and a lives-based scoring system. | [View Project](./whack%20a%20mole/) |
 
 ---
 
@@ -43,9 +43,9 @@ My first addition to this repository is a functional **Whack-A-Mole** game. It c
 * To document my growth as a developer one mini-project at a time.
 ---
 ## 📫 Contact & Connect
-* LinkedIn: Adarsh Singh
+* LinkedIn: [Adarsh Singh](https://www.linkedin.com/in/adarsh-singh-11a795315/)
 
-* Portfolio: Check out my work
+* Portfolio: [Check out my work](https://adarshkumar-rathaur.github.io/portfolio/)
 
 * GitHub: @adarshkumar-rathaur
 ---
